@@ -12,7 +12,8 @@ Bem-vindo à DevOpsNow, uma empresa líder em terceirização de serviços de De
 O mundo da tecnologia está constantemente evoluindo, e a integração contínua e a entrega contínua (CI/CD) tornaram-se fundamentais para o desenvolvimento de software moderno. No entanto, implementar e manter essas práticas pode ser desafiador para muitas organizações. É aqui que entra a DevOpsNow.
 
 ## Sobre a Empresa:
-<!-- em construção -->
+
+A DevOpsNow é líder em serviços de DevOps sob demanda, ajudando empresas a enfrentar os desafios da integração contínua e entrega contínua (CI/CD). Com uma equipe especializada, oferecemos consultoria, automação de CI/CD, gerenciamento de infraestrutura como código e monitoramento. Nosso objetivo é impulsionar o sucesso dos projetos de software, capacitando os clientes a adotarem uma abordagem eficaz de DevOps. DevOpsNow: sua parceira confiável para o sucesso tecnológico.
 
 ## Clientes:
 Nossos principais clientes estão no ramo financeiro brasileiro, incorporados por meio dos Bancos Digitais:
