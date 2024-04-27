@@ -1,11 +1,3 @@
-<h1 align="center">DevOpsNow</h1>
-<h1 align="center">Terceirização de Serviços de DevOps</h1>
-<p align="center">
-    <apan align="center">
-      <img alt="devops" src="./devops.jpg" height="80%" width="100%">
-    </span>
-</p>
-
 ## Sumário:
 - [Introdução](#introdução)
 - [Sobre a Empresa](#sobre-a-empresa)
@@ -23,6 +15,37 @@ O mundo da tecnologia está constantemente evoluindo, e a integração contínua
 <!-- em construção -->
 
 ## Clientes:
-<!-- em construção -->
+Nossos principais clientes estão no ramo financeiro brasileiro, incorporados por meio dos Bancos Digitais:
 
+<h1 align="center">Nubank</h1>
+<p align="center">
+    <apan align="center">
+      <img alt="nubank" src="./nubank.jpg" height="50%" width="50%">
+    </span>
+</p>
+Um dos maiores bancos digitais do Brasil, conhecido por sua inovação e foco na experiência do cliente, ofertando seus diversos produtos e benefícios com facilidade.
+
+<h1 align="center">Inter</h1>
+<p align="center">
+    <apan align="center">
+      <img alt="inter" src="./inter.jpg" height="50%" width="50%">
+    </span>
+</p>
+Um banco digital que oferece uma ampla gama de serviços financeiros, incluindo conta corrente, investimentos, e até mesmo com saques gratuitos.
+
+<h1 align="center">Neon</h1>
+<p align="center">
+    <apan align="center">
+      <img alt="neon" src="./neon.jpg" height="50%" width="50%">
+    </span>
+</p>
+Uma instituição financeira digital que oferece serviços de conta corrente, cartão de crédito e investimentos.
+
+<h1 align="center">C6 Bank</h1>
+<p align="center">
+    <apan align="center">
+      <img alt="c6_bank" src="./c6_bank.jpg" height="50%" width="50%">
+    </span>
+</p>
+Um banco digital que oferece uma variedade de produtos financeiros, incluindo conta corrente, cartão de crédito, investimentos bem como conta internacional.
 
